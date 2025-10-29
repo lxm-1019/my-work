@@ -1,0 +1,5 @@
+# Flask 框架核心依赖
+flask==2.0.1
+
+# 生产环境服务器（用于部署到 Render/Replit 等平台）
+gunicorn==20.1.0
